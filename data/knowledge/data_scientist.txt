@@ -1,0 +1,62 @@
+Data Scientist
+
+Un Data Scientist travaille avec les données pour extraire des informations
+utiles, identifier des tendances et construire des modèles prédictifs.
+
+Compétences fréquentes :
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+- Visualisation de données
+- Analyse de données
+- Statistiques
+
+Outils fréquents :
+
+- Jupyter
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Git
+- Power BI
+
+Missions fréquentes :
+
+- Préparer et nettoyer les données
+- Explorer les données
+- Analyser les données
+- Construire des modèles de Machine Learning
+- Évaluer les performances des modèles
+- Visualiser les résultats
+- Communiquer les résultats
+- Participer au déploiement des modèles
+
+Git :
+
+Git est un système de gestion de versions utilisé pour suivre les modifications
+du code source. Il facilite la collaboration entre plusieurs développeurs
+et permet de conserver l'historique des modifications d'un projet.
+
+Power BI :
+
+Power BI est un outil de Business Intelligence et de visualisation de données.
+Il permet de transformer des données en rapports et tableaux de bord interactifs.
+Il est notamment utilisé pour analyser et présenter les résultats de manière
+visuelle.
+
+Pourquoi Git est utile pour un Data Scientist :
+
+Git permet au Data Scientist de versionner ses scripts, notebooks et projets.
+Il facilite également la collaboration avec les autres membres d'une équipe.
+
+Pourquoi Power BI est utile pour un Data Scientist :
+
+Power BI permet de créer des visualisations, rapports et tableaux de bord
+à partir de données. Il peut être utilisé pour communiquer les résultats
+d'une analyse à des utilisateurs ou à une équipe métier.

@@ -1,0 +1,22 @@
+Stage Data Scientist
+
+Nous recherchons un stagiaire Data Scientist.
+
+Compétences recherchées :
+Python
+SQL
+Machine Learning
+Deep Learning
+Pandas
+Scikit-learn
+Power BI
+Docker
+AWS
+Git
+
+Missions :
+- Préparer et analyser des données
+- Développer des modèles de Machine Learning
+- Évaluer les performances des modèles
+- Créer des visualisations
+- Participer au déploiement des modèles

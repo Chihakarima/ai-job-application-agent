@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "Compare mon CV avec l'offre, indique mes compétences manquantes et donne-moi des conseils pour améliorer mon profil."
+    },
+    {
+        "role": "assistant",
+        "content": "Compétences à améliorer :\n- Git\n- Power BI\n\nConseils :\n- Apprendre Git et pratiquer le versionnement de projets avec GitHub.\n- Développer les compétences Power BI à travers des projets d'analyse et de visualisation de données."
+    },
+    {
+        "role": "user",
+        "content": "Comment puis-je améliorer ces compétences ?"
+    },
+    {
+        "role": "assistant",
+        "content": "Compétences à améliorer :\n- Git\n- Power BI\n\nConseils :\n- Apprendre Git et pratiquer le versionnement de projets avec GitHub.\n- Développer les compétences Power BI à travers des projets d'analyse et de visualisation de données."
+    }
+]

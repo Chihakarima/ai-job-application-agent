@@ -1,0 +1,17 @@
+Karima Chiha
+
+Étudiante en 5ème année cycle ingénieur
+IA et Data Science
+
+Compétences :
+Python
+SQL
+Machine Learning
+Deep Learning
+Pandas
+NumPy
+Scikit-learn
+TensorFlow
+PyTorch
+Docker
+AWS
