@@ -353,7 +353,7 @@ def save_run_history(
         "model":
             result.get(
                 "llm_model",
-                "qwen2.5:3b"
+                "openai/gpt-oss-20b"
             ),
 
         "input_tokens":
@@ -2243,7 +2243,7 @@ if __name__ == "__main__":
             0,
 
         "llm_model":
-            "qwen2.5:3b",
+            "openai/gpt-oss-20b",
 
         "llm_time":
             0.0,
@@ -2361,6 +2361,7 @@ if __name__ == "__main__":
         f"{run_duration:.2f} s"
     )
 
+
     print(
         f"📞 Appels LLM     : "
         f"{result.get('llm_calls', 0)}"
@@ -2368,7 +2369,7 @@ if __name__ == "__main__":
 
     print(
         f"🤖 Modèle LLM     : "
-        f"{result.get('llm_model', 'qwen2.5:3b')}"
+        f"{result.get('llm_model', 'openai/gpt-oss-20b')}"
     )
 
     print(

@@ -1,13 +1,10 @@
 import os
-from langchain_ollama import ChatOllama
 
-OLLAMA_URL = os.getenv(
-    "OLLAMA_URL",
-    "http://localhost:11434"
-)
+from langchain_groq import ChatGroq
 
-llm = ChatOllama(
-    model="qwen2.5:3b",
+
+llm = ChatGroq(
+    model="openai/gpt-oss-20b",
     temperature=0,
-    base_url=OLLAMA_URL
+    api_key=os.getenv("GROQ_API_KEY")
 )

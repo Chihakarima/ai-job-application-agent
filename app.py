@@ -254,7 +254,7 @@ if st.button(
                         0,
 
                     "llm_model":
-                        "qwen2.5:3b",
+                        "openai/gpt-oss-20b",
 
                     "llm_time":
                         0.0,
@@ -346,7 +346,7 @@ if st.button(
 
                 llm_model = result.get(
                     "llm_model",
-                    "qwen2.5:3b"
+                    "openai/gpt-oss-20b"
                 )
 
                 llm_time = result.get(
@@ -792,7 +792,7 @@ if history:
 
         model_history = run.get(
             "model",
-            "qwen2.5:3b"
+            "openai/gpt-oss-20b"
         )
 
         input_history = run.get(
